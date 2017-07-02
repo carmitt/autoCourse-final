@@ -1,0 +1,8 @@
+sut.url=https://int-stg.wnwd.com
+db.automation.host=***********.us-west-2.rds.amazonaws.com
+db.automation.user=ww
+db.automation.pass=**********
+db.mongo.host=*********d.com
+db.name
+db.user
+db.pass
